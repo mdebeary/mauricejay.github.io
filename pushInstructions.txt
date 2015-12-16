@@ -1,0 +1,9 @@
+1: open terminal go to repository
+2: edit your files
+3: after files are good to commit follow these commands in Teminal
+	- git status
+	- git add .
+	- git commit -m "a commit message something short and sweet about your changes"
+	- git push
+4: type your username and password in (ALSO YOU CAN SET UP A SECURE FILE SO YOU DONT HAVE TO TYPE UN & PW JUST GOOGLE IT)
+ 
